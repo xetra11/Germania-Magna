@@ -25,7 +25,7 @@
  emperor_plural:0 "Kaiser"
  unlanded_plural:0 "Landlose"
 
- #Default Feudal tiers 
+ #Default Feudal tiers
  #Default Republic tiers
  #Default Theocracy tiers
  #Default Clan tiers
@@ -37,7 +37,7 @@
  #Default Viceroyalty tiers
 
 
- #Default Feudal tiers 
+ #Default Feudal tiers
  baron_feudal_male:0 "Baron"
  baron_feudal_female:0 "Baronin"
  barony_feudal:0 "Baronie"
@@ -109,21 +109,21 @@
  empire_clan:0 "Großclan"
 
  #Default Tribal tiers
- baron_tribal_male:0 "Oberhaupt"
- baron_tribal_female:0 "Oberhaupt"
- barony_tribal:0 "Stamm"
- count_tribal_male:0 "Häuptling"
- count_tribal_female:0 "Häuptling"
- county_tribal:0 "Häuptlingstum"
- duke_tribal_male:0 "Oberhäuptling"
- duke_tribal_female:0 "Oberhäuptling"
- duchy_tribal:0 "Oberhäuptlingstum"
- king_tribal_male:0 "König"
- king_tribal_female:0 "Königin"
- kingdom_tribal:0 "Königreich"
- emperor_tribal_male:0 "Hochkönig"
- emperor_tribal_female:0 "Hochkönigin"
- empire_tribal:0 "Hochkönigreich"
+ baron_tribal_male:0 "Hunno"
+ baron_tribal_female:0 "Hunna"
+ barony_tribal:0 "Hundertschaft"
+ count_tribal_male:0 "Fürst"
+ count_tribal_female:0 "Fürstin"
+ county_tribal:0 "Gau"
+ duke_tribal_male:0 "Herzog"
+ duke_tribal_female:0 "Herzogin"
+ duchy_tribal:0 "Stamm"
+ king_tribal_male:0 "Koning"
+ king_tribal_female:0 "Konigin"
+ kingdom_tribal:0 "Stammesbund"
+ emperor_tribal_male:0 "Reichskoning"
+ emperor_tribal_female:0 "Reichskonigin"
+ empire_tribal:0 "Kriegsreich"
 
  #Default Mercenary tiers
  baron_mercenary_male:0 "Leutnant"
@@ -166,7 +166,7 @@
 ##############################################
 #Theocracy titles, religious (group) localization.
 
-# Bon 
+# Bon
 # Buddhism
 # Christianity
 # Dualism
@@ -179,17 +179,17 @@
 # Magyarism
 # Paganism
 # Baltic
-# Slavic 
+# Slavic
 # Finno-Ugric
 # Taoism
 # Tengrism
-# West African 
-# West African Bori 
-# West African Roog 
+# West African
+# West African Bori
+# West African Roog
 # Zoroastrianism
 # Zunism
 
-# Bon 
+# Bon
  baron_theocracy_male_bon_religion:0 "Priester"
  baron_theocracy_female_bon_religion:0 "Priesterin"
  barony_theocracy_bon_religion:0 "Vihara"
@@ -288,7 +288,7 @@
  emperor_theocracy_female_islam_religion:0 "Großkalifa"
  empire_theocracy_islam_religion:0 "Großkalifat"
 
-# Yazidi 
+# Yazidi
  baron_theocracy_male_yazidi_religion:0 "Kochek"
  baron_theocracy_female_yazidi_religion:0 "$baron_theocracy_male_yazidi_religion$"
  barony_theocracy_yazidi_religion:0 "Schrein"
@@ -369,7 +369,7 @@
  king_theocracy_male_baltic_religion:0 "Hexenkönig"
  king_theocracy_female_baltic_religion:0 "Hexenkönigin"
 
-# Slavic 
+# Slavic
  count_theocracy_male_slavic_religion:0 "Zhrets"
  count_theocracy_female_slavic_religion:0 "Zhritsa"
  duke_theocracy_male_slavic_religion:0 "Volkhv"
@@ -385,7 +385,7 @@
 
 # Tengrism (same as Pagan)
 
-# West African 
+# West African
  baron_theocracy_male_west_african_religion:0 "Hogon"
  baron_theocracy_female_west_african_religion:0 "Hogon"
  count_theocracy_male_west_african_religion:0 "Hochhogon"
@@ -401,7 +401,7 @@
  king_theocracy_male_west_african_bori_religion:0 "Großadjingi"
  king_theocracy_female_west_african_bori_religion:0 "Großmagadja"
 
-# West African Roog 
+# West African Roog
  baron_theocracy_male_west_african_roog_religion:0 "Saltigue"
  baron_theocracy_female_west_african_roog_religion:0 "Saltigue"
  count_theocracy_male_west_african_roog_religion:0 "Hochsaltigue"
@@ -436,22 +436,22 @@
  duke_theocracy_male_ismaili:0 "Großayatollah"
  duke_theocracy_female_ismaili:0 "Großayatollah"
 
-# Orthodox 
+# Orthodox
  count_theocracy_male_orthodox:0 "Metropolit"
  count_theocracy_female_orthodox:0 "Metropolitin"
 
 ##############################################
-# Special cultural titles (sorted by culture, then government type). 
+# Special cultural titles (sorted by culture, then government type).
 
 ### Latin ###
-# Republic 
+# Republic
  duke_republic_male_latin_group:0 "Doge"
  duke_republic_female_latin_group:0 "Dogaressa"
  king_republic_male_latin_group:0 "Durchlauchter Doge"
  king_republic_female_latin_group:0 "Durchlauchte Dogaressa"
 
 ### Roman ###
-# Feudal 
+# Feudal
  baron_feudal_male_roman:1 "Baro"
  baron_feudal_female_roman:1 "Baronissa"
  barony_feudal_roman:1 "Castrum"
@@ -483,7 +483,7 @@
  emperor_republic_female_roman:0 "Prinzessin"
  empire_republic_roman:0 "Großrepublik"
 
-# Viceroyalty 
+# Viceroyalty
  baron_viceroyalty_male_roman:0 "Statthalter"
  baron_viceroyalty_female_roman:0 "Statthalterin"
  barony_viceroyalty_roman:0 "Provinz"
@@ -513,13 +513,13 @@
  emperor_feudal_female_greek:0 "Basilissa"
 
 ### Byzantine ###
-# Republic 
+# Republic
  duke_republic_male_byzantine_group:1 "Eparch"
  duke_republic_female_byzantine_group:1 "Eparchessa"
  king_republic_male_byzantine_group:0 "Durchlauchter Doge"
  king_republic_female_byzantine_group:0 "Durchlauchte Dogaressa"
 
-# Viceroyalty 
+# Viceroyalty
  duke_viceroyalty_male_byzantine_group:0 "Strategos"
  duke_viceroyalty_female_byzantine_group:0 "Strategitissa"
  duchy_viceroyalty_byzantine_group:0 "Thema"
@@ -531,12 +531,12 @@
  empire_viceroyalty_byzantine_group:0 "Großexarchat"
 
 ### German ###
-# Feudal / Tribal 
+# Feudal / Tribal
  emperor_feudal_male_german:0 "Kaiser"
  emperor_feudal_female_german:0 "Kaiserin"
 
 ### Norse ###
-# Feudal / Tribal 
+# Feudal / Tribal
  baron_feudal_male_norse:0 "Þegn"
  baron_feudal_female_norse:0 "Þegn"
  count_feudal_male_norse:0 "Jarl"
@@ -544,13 +544,13 @@
  county_feudal_norse:0 "Jarltum"
 
 ### English ###
-# Feudal / Tribal 
+# Feudal / Tribal
  count_feudal_male_english:0 "Earl"
  count_feudal_female_english:0 "Gräfin"
  county_feudal_english:0 "Earltum"
 
 ### Anglo-Saxon ###
-# Feudal / Tribal 
+# Feudal / Tribal
  baron_feudal_male_anglo_saxon:0 "Thane"
  baron_feudal_female_anglo_saxon:0 "Thane"
  
@@ -628,7 +628,7 @@
  duke_feudal_female_sardinian:0 "Archonesa"
 
 ### Russian ###
-# Feudal 
+# Feudal
  duke_feudal_male_russian:0 "Großfürst"
  duke_feudal_female_russian:0 "Großfürstin"
  duchy_feudal_russian:0 "Großfürstentum"
@@ -637,7 +637,7 @@
  empire_feudal_russian:0 "Zarenreich"
 
 ### Arabic ###
-# Feudal / Clan / Tribal 
+# Feudal / Clan / Tribal
  baron_feudal_male_arabic_group:1 "Wālī"
  baron_feudal_female_arabic_group:1 "Wālia"
  barony_feudal_arabic_group:1 "Wilāyah"
@@ -657,7 +657,7 @@
  emperor_feudal_female_arabic_group:1 "Malika al-Muazzama"
  empire_feudal_arabic_group:0 "Reich"
 
-# Republic 
+# Republic
  count_republic_male_arabic_group:0 "Wali"
  count_republic_female_arabic_group:0 "Walia"
  duke_republic_male_arabic_group:0 "Wali-Emir"
@@ -666,7 +666,7 @@
  king_republic_female_arabic_group:0 "Walia-Malik"
 
 ### Turkish ###
-# Feudal / Clan 
+# Feudal / Clan
  baron_feudal_male_turkish:1 "Agha"
  baron_feudal_female_turkish:1 "Hanim"
  barony_feudal_turkish:1 "Timariot"
@@ -684,7 +684,7 @@
  empire_feudal_turkish:0 "Reich"
 
 ### Iranian ###
-# Feudal / Clan 
+# Feudal / Clan
  baron_feudal_male_iranian_group:0 "Argbadh"
  baron_feudal_female_iranian_group:1 "$baron_feudal_male_iranian_group$"
  barony_feudal_iranian_group:0 "Arg"
@@ -717,7 +717,7 @@
  # Muslim Iranian Empire titles are the same as non-Muslim Iranian Imperial titles
 
 ### Sogdian ###
-# Feudal / Clan 
+# Feudal / Clan
  duke_feudal_male_sogdian:0 "Ichschid"
 
 ### Mongol ###
@@ -730,7 +730,7 @@
  king_feudal_female_uyghur:0 "Idiqut"
 
 ### Altaic ###
-# Feudal / Tribal / Clan / Nomadic 
+# Feudal / Tribal / Clan / Nomadic
  king_feudal_male_altaic_group:0 "Khan"
  king_feudal_female_altaic_group:0 "Khanum"
  kingdom_feudal_altaic_group:0 "Khanat"
@@ -739,7 +739,7 @@
  empire_feudal_altaic_group:0 "Khaganat"
 
 ### Dravidian / Indo-Aryan ###
-# Feudal / Clan / Tribal 
+# Feudal / Clan / Tribal
  baron_feudal_male_dravidian_group:0 "Damapati"
  baron_feudal_female_dravidian_group:0 "Damapatni"
  barony_feudal_dravidian_group:0 "Dama"
@@ -776,7 +776,7 @@
 
 
 ### Tibetan Group ###
-# Feudal / Clan 
+# Feudal / Clan
  count_feudal_male_tibetan_group:0 "Ngapo"
  count_feudal_female_tibetan_group:0 "Ngamo"
  county_feudal_tibetan_group:0 "Grafschaft"
@@ -812,25 +812,25 @@
 
 #Princes (children of Kings/Emperors, sorted by culture)
 
-### Roman ### 
+### Roman ###
  prince_male_roman:1 "Princeps"
  prince_female_roman:1 "Principissa"
  prince_male_roman_empire:0 "Cäsar"
  prince_female_roman_empire:1 "Caesarissa"
 
-### Iberian ### 
+### Iberian ###
  prince_male_iberian_group:0 "Infant"
  prince_female_iberian_group:0 "Infantin"
  prince_male_iberian_group_empire:0 "Infant"
  prince_female_iberian_group_empire:0 "Infantin"
 
-### Iranian ### 
+### Iranian ###
  prince_male_iranian_group:0 "Schahsada"
  prince_female_iranian_group:0 "Schahdocht"
  prince_male_iranian_group_empire:0 "Schahsada"
  prince_female_iranian_group_empire:0 "Schahdocht"
 
-### Dravidian / Indo-Aryan ### 
+### Dravidian / Indo-Aryan ###
  prince_male_dravidian_group:0 "Radschkumar"
  prince_female_dravidian_group:0 "Radschkumari"
  prince_male_dravidian_group_empire:0 "Radschkumar"
@@ -892,7 +892,7 @@
  emperor_feudal_male_berber_group:0 "Malik al-Mulūk"
  emperor_feudal_female_berber_group:0 "Malika al-Mulūk"
  empire_feudal_berber_group:0 "Großreich"
-# Tribal 
+# Tribal
  baron_tribal_male_berber_group:0 "Ra'is"
  baron_tribal_female_berber_group:0 "Ra'isa"
  count_tribal_male_berber_group:0 "Scheich"
