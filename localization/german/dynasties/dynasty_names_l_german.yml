@@ -1,0 +1,9 @@
+﻿l_german:
+ FOUNDER_BASED_NAME_POSTFIX:0 "id"
+ ############################################################
+ # Prefixes
+ ############################################################
+ dynnp_af:0 "von"
+ dynnpat_suf_sohn:0 "Sohn des "
+ dynnpat_suf_Tochter:0 "Sohn des "
+ dynn_donar:0 "Donarsoehne"
