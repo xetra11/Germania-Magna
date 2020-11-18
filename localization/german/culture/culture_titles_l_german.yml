@@ -4,26 +4,16 @@
 #General names:
  unlanded_plural:0 "Frieling"
 
- baron_theocracy_male:0 "Priester"
- baron_theocracy_female:0 "Priesterin"
- barony_theocracy:0 "Tempel"
- count_theocracy_male:0 "Hohepriester"
- count_theocracy_female:0 "Hohepriesterin"
- county_theocracy:0 "Großtempel"
- duke_theocracy_male:0 "Erzpriester"
- duke_theocracy_female:0 "Erzpriesterin"
- duchy_theocracy:0 "Theokratie"
- king_theocracy_male:0 "Großpriester"
- king_theocracy_female:0 "Großpriesterin"
- kingdom_theocracy:0 "Großtheokratie"
- emperor_theocracy_male:0 "Gottkaiser"
- emperor_theocracy_female:0 "Gottkaiserin"
- empire_theocracy:0 "Heiliges Reich"
-
 ### Proto Germanic ###
 # Tribe
  baron_tribal_male_proto_germanic:0 "Hunno"
  baron_tribal_female_proto_germanic:0 "Hunna"
- count_tribal_male_proto_germanic:0 "Fürst"
+ barony_tribal_proto_germanic:0 "Hundertschaft"
+
+ count_tribal_male_proto_germanic:0 "Gaufürst"
  count_tribal_female_proto_germanic:0 "Fürstin"
  county_tribal_proto_germanic:0 "Gau"
+
+ duke_tribal_male_proto_germanic:0 "Stammesherzog"
+ duke_tribal_female_proto_germanic:0 "Herzogin"
+ duchy_tribal_proto_germanic:0 "Großstamm"

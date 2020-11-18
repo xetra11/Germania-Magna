@@ -27,124 +27,22 @@
 
 #############################################
 
-# Faction Leaders
-faction_leader_male = {
-	type = character
-	gender = male
-	faction = yes
-	priority = 1
-	special = holder
-}
-
-faction_leader_female = {
-	type = character
-	gender = female
-	faction = yes
-	priority = 1
-	special = holder
-}
-
- #############################################
-#Fallback titles (should ideally never appear):
-
-baron = {
-	type = character
-	gender = male
-	special = holder
-	tier = barony
-	priority = 4
-}
-baron_female = {
-	type = character
-	gender = female
-	special = holder
-	tier = barony
-	priority = 4
-}
-barony = {
+barony_tribal_proto_germanic = {
 	type = title
 	tier = barony
-	priority = 4
+	priority = 5
 }
 
-count = {
-	type = character
-	gender = male
-	special = holder
-	tier = county
-	priority = 15
-}
-count_female = {
-	type = character
-	gender = female
-	special = holder
-	tier = county
-	priority = 15
-}
-county = {
+county_tribal_proto_germanic = {
 	type = title
 	tier = county
 	priority = 15
 }
 
-duke = {
-	type = character
-	gender = male
-	special = holder
-	tier = duchy
-	priority = 25
-}
-duke_female = {
-	type = character
-	gender = female
-	special = holder
-	tier = duchy
-	priority = 25
-}
-duchy = {
+duchy_tribal_proto_germanic = {
 	type = title
 	tier = duchy
 	priority = 25
-}
-
-king = {
-	type = character
-	gender = male
-	special = holder
-	tier = kingdom
-	priority = 45
-}
-king_female = {
-	type = character
-	gender = female
-	special = holder
-	tier = kingdom
-	priority = 45
-}
-kingdom = {
-	type = title
-	tier = kingdom
-	priority = 45
-}
-
-emperor = {
-	type = character
-	gender = male
-	special = holder
-	tier = empire
-	priority = 100
-}
-emperor_female = {
-	type = character
-	gender = female
-	special = holder
-	tier = empire
-	priority = 100
-}
-empire = {
-	type = title
-	tier = empire
-	priority = 100
 }
 
 # Proto-Germanic
@@ -153,7 +51,18 @@ baron_tribal_male_proto_germanic = {
 	gender = male
 	special = holder
 	tier = barony
-	priority = 20
+	priority = 5
+	governments = { tribal_government }
+	cultures = { proto_germanic_group }
+	top_liege = no
+}
+
+baron_tribal_female_proto_germanic = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 5
 	governments = { tribal_government }
 	cultures = { proto_germanic_group }
 	top_liege = no
@@ -164,8 +73,41 @@ count_tribal_male_proto_germanic = {
 	gender = male
 	special = holder
 	tier = county
-	priority = 20
+	priority = 10
 	governments = { tribal_government }
 	cultures = { proto_germanic_group }
 	top_liege = no
+}
+
+count_tribal_female_proto_germanic = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 10
+	governments = { tribal_government }
+	cultures = { proto_germanic_group }
+	top_liege = no
+}
+
+duke_tribal_male_proto_germanic = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 15
+	governments = { tribal_government }
+	cultures = { proto_germanic_group }
+	top_liege = yes
+}
+
+duke_tribal_female_proto_germanic = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 15
+	governments = { tribal_government }
+	cultures = { proto_germanic_group }
+	top_liege = yes
 }
