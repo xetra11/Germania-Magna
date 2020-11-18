@@ -9,15 +9,6 @@ d_angria = {
 	
 	capital = c_minden
 	
-	can_create = {
-		NOT = {
-			faith = {
-				religion_tag = christianity_religion
-				has_doctrine = doctrine_spiritual_head
-			}
-		}
-	}
-	
 	ai_primary_priority = {
 		if = {
 			limit = {
