@@ -1,7 +1,7 @@
 ﻿666001 = {
 	name = "Thorak"
 	dna = 666001_thorak
-	dynasty = 789001
+	dynasty = 000001
 	religion = "norse_pagan"
 	culture = cheruscii
 	martial = 7

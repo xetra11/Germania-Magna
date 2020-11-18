@@ -33,10 +33,10 @@
 
 		cadet_dynasty_names = {
 			"dynn_donar"
+			"dynn_boar"
 		}
 
 		dynasty_names = {
-			"ddynn_donar"
 		}
 		
 		male_names = {
@@ -52,16 +52,16 @@
 			Ires Ingred Ingrid Meinhild Mildred Sighild Thusnelda Tusnelda Tusneld Ura
 		}
 		
-		dynasty_of_location_prefix = "dynnp_von"
+		dynasty_of_location_prefix = "dynnp_der"
 		
 		patronym_prefix_male = "dynnpat_pre_sohn"
 		patronym_prefix_female = "dynnpat_pre_tochter"
 		always_use_patronym = yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 100
+		pat_grf_name_chance = 0
 		mat_grf_name_chance = 0
-		father_name_chance = 0
+		father_name_chance = 100
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 0

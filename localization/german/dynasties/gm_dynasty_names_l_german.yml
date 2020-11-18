@@ -4,6 +4,13 @@
  # Prefixes
  ############################################################
  dynnp_von:0 "von "
+ dynnp_der:0 "der "
  dynnpat_pre_sohn:0 "Sohn des "
  dynnpat_pre_tochter:0 "Tochter des "
- dynn_donar:0 "Söhne des Donar"
+
+ # Tribes (Dynasties)
+ dynn_cheruscii:0 "Cherusker"
+
+ # Lineages (Houses)
+ dynn_donar:0 "Nachfahren des Donar"
+ dynn_boar:0 "Eberkrieger"

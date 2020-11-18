@@ -1,0 +1,13 @@
+﻿# Sons of Donar
+lineage_of_donar = {
+	prefix = "dynnp_der"
+	name = "dynn_donar"
+	dynasty = 000001
+}
+
+# Boar People
+lineage_of_boar = {
+	prefix = "dynnp_der"
+	name = "dynn_boar"
+	dynasty = 000001
+}
