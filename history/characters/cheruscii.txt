@@ -15,4 +15,8 @@
 	trait = callous
 	trait = viking
 	trait = education_martial_3
+	
+	1.1.1 = {
+		birth = yes
+	}
 }
