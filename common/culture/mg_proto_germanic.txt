@@ -16,18 +16,6 @@
 		{ name = "mercenary_company_queens_hird" }
 	}
 	
-	male_names = {
-		Ari Albin Adlin Anla Alka Begwin Boldin Barwin Bogwin Bolak Balduin Erek Eldwin Forwin Fogwin Folkwin
-		Farowen Falknin Folkin Garduwin Gundalf Gandulf Gondulf Gorolf Gonwolf Godwin Horold Hanrold Holgan Hulg
-		Heskowen Hemrid Herowen Huldrin Hadowan Ingrulf Ingburt Igdrason Iglfen Ingrend Ingeomar Jens Jente Jorun Jotun
-		Leinwen Malowent Marbot Morbot Merowent Onsaka Ongar Ongeomar Ongwen Retlunt Segested Segimar Segimund Segemar
-		Segested Thorak Thorag Torag Torwin Torald Torwen Tolgrim Wegumar Wegilund
-		
-	}
-	female_names = {
-		Albrid Atla Birgud Auja Birgut Bilke Dora Elka Frey Filgrid Guthild Gunhild Gurda Gudrun Hildred Hilbrand Hilda
-		Ires Ingred Ingrid Meinhild Mildred Sighild Thusnelda Tusnelda Tusneld Ura
-	}
 	
 	cheruscii = {
 		graphical_cultures = {
@@ -49,6 +37,19 @@
 
 		dynasty_names = {
 			"ddynn_donar"
+		}
+		
+		male_names = {
+			Ari Albin Adlin Anla Alka Begwin Boldin Barwin Bogwin Bolak Balduin Erek Eldwin Forwin Fogwin Folkwin
+			Farowen Falknin Folkin Garduwin Gundalf Gandulf Gondulf Gorolf Gonwolf Godwin Horold Hanrold Holgan Hulg
+			Heskowen Hemrid Herowen Huldrin Hadowan Ingrulf Ingburt Igdrason Iglfen Ingrend Ingeomar Jens Jente Jorun Jotun
+			Leinwen Malowent Marbot Morbot Merowent Onsaka Ongar Ongeomar Ongwen Retlunt Segested Segimar Segimund Segemar
+			Segested Thorak Thorag Torag Torwin Torald Torwen Tolgrim Wegumar Wegilund
+			
+		}
+		female_names = {
+			Albrid Atla Birgud Auja Birgut Bilke Dora Elka Frey Filgrid Guthild Gunhild Gurda Gudrun Hildred Hilbrand Hilda
+			Ires Ingred Ingrid Meinhild Mildred Sighild Thusnelda Tusnelda Tusneld Ura
 		}
 		
 		dynasty_of_location_prefix = "dynnp_af"

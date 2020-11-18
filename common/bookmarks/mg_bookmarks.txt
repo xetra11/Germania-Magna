@@ -1,0 +1,20 @@
+﻿bm_10_barbarians = {
+	start_date = 10.1.1
+	is_playable = yes
+
+	character = {
+		name = "bookmark_barbarians_thorak"
+		dynasty = 7514
+		dynasty_splendor_level = 1
+		type = male
+		birth = 1.1.1
+		title = d_york
+		government = tribal_government
+		culture = cheruscii
+		religion = norse_pagan
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 666001
+		position = { 700 620 }
+		animation = disapproval
+	}
+}
