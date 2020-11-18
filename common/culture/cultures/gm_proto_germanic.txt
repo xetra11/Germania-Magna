@@ -32,11 +32,11 @@
 		# T_ 222 þ 254 Ð 208 T_ 240 E_
 
 		cadet_dynasty_names = {
-			"dynn_donar"
-			"dynn_boar"
 		}
 
 		dynasty_names = {
+			"dynn_donar"
+			"dynn_boar"
 		}
 		
 		male_names = {

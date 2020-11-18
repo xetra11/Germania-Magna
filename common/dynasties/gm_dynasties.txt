@@ -1,4 +1,4 @@
 ﻿000001 = {
-	name = "dynn_donar"
+	name = "dynn_cheruscii"
 	culture = "cheruscii"
 }
