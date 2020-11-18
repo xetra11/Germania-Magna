@@ -1,0 +1,171 @@
+﻿# Accepted categories are: governments, cultures, culture_groups, faiths, religions
+# A Flavorization will apply if ALL specified categories have ANY of their entries
+# represented in the character/title
+# So for example:
+# governments = { feudal_government }
+# culture_groups = { mongolic_group central_germanic_group }
+# religions = { christianity_religion }
+# cultures = { norse }
+# faiths = { catholicism }
+# For this to apply a character MUST BE feudal, AND must also be EITHER altaic OR germanic
+# priority is used to determine priority, if they are the same then the LAST will be selected,
+# and honorifics will be prefered over landed titles. Default priority is 1
+# If a flavorization does not have a tier it can apply to all tiers of characters, too many non-tiered
+# flavorizations is bad for performance though, YOU HAVE BEEN WARNED!
+# 'top_liege = no' means that its the holder of the title causing the honorific that is tested for
+# the various categories, so for a prince it is the king that is tested, for a queen mother it is her son
+# if this is not specified ( or 'top_liege = yes' the default ) then it is the top liege of that character
+# that is tested, this means that most title flavor comes from the top liege of the title not the holder
+
+#sultan = { #Example
+#	gender = male
+#	special = holder
+#	tier = kingdom
+	#	governments = { feudal_government clan_government }
+#	religions = { islam_religion }
+#}
+
+#############################################
+
+# Faction Leaders
+faction_leader_male = {
+	type = character
+	gender = male
+	faction = yes
+	priority = 1
+	special = holder
+}
+
+faction_leader_female = {
+	type = character
+	gender = female
+	faction = yes
+	priority = 1
+	special = holder
+}
+
+ #############################################
+#Fallback titles (should ideally never appear):
+
+baron = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 4
+}
+baron_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = barony
+	priority = 4
+}
+barony = {
+	type = title
+	tier = barony
+	priority = 4
+}
+
+count = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 15
+}
+count_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = county
+	priority = 15
+}
+county = {
+	type = title
+	tier = county
+	priority = 15
+}
+
+duke = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 25
+}
+duke_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = duchy
+	priority = 25
+}
+duchy = {
+	type = title
+	tier = duchy
+	priority = 25
+}
+
+king = {
+	type = character
+	gender = male
+	special = holder
+	tier = kingdom
+	priority = 45
+}
+king_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = kingdom
+	priority = 45
+}
+kingdom = {
+	type = title
+	tier = kingdom
+	priority = 45
+}
+
+emperor = {
+	type = character
+	gender = male
+	special = holder
+	tier = empire
+	priority = 100
+}
+emperor_female = {
+	type = character
+	gender = female
+	special = holder
+	tier = empire
+	priority = 100
+}
+empire = {
+	type = title
+	tier = empire
+	priority = 100
+}
+
+# Proto-Germanic
+baron_tribal_male_proto_germanic = {
+	type = character
+	gender = male
+	special = holder
+	tier = barony
+	priority = 20
+	governments = { tribal_government }
+	cultures = { proto_germanic_group }
+	top_liege = no
+}
+
+count_tribal_male_proto_germanic = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 20
+	governments = { tribal_government }
+	cultures = { proto_germanic_group }
+	top_liege = no
+}

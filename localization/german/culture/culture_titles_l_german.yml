@@ -107,23 +107,23 @@
  emperor_clan_male:0 "Großpatriarch"
  emperor_clan_female:0 "Großmatriarchin"
  empire_clan:0 "Großclan"
-
+ 
  #Default Tribal tiers
- baron_tribal_male:0 "Hunno"
- baron_tribal_female:0 "Hunna"
- barony_tribal:0 "Hundertschaft"
- count_tribal_male:0 "Fürst"
- count_tribal_female:0 "Fürstin"
- county_tribal:0 "Gau"
- duke_tribal_male:0 "Herzog"
- duke_tribal_female:0 "Herzogin"
- duchy_tribal:0 "Stamm"
- king_tribal_male:0 "Koning"
- king_tribal_female:0 "Konigin"
- kingdom_tribal:0 "Stammesbund"
- emperor_tribal_male:0 "Reichskoning"
- emperor_tribal_female:0 "Reichskonigin"
- empire_tribal:0 "Kriegsreich"
+ baron_tribal_male:0 "Oberhaupt"
+ baron_tribal_female:0 "Oberhaupt"
+ barony_tribal:0 "Stamm"
+ count_tribal_male:0 "Häuptling"
+ count_tribal_female:0 "Häuptling"
+ county_tribal:0 "Häuptlingstum"
+ duke_tribal_male:0 "Oberhäuptling"
+ duke_tribal_female:0 "Oberhäuptling"
+ duchy_tribal:0 "Oberhäuptlingstum"
+ king_tribal_male:0 "König"
+ king_tribal_female:0 "Königin"
+ kingdom_tribal:0 "Königreich"
+ emperor_tribal_male:0 "Hochkönig"
+ emperor_tribal_female:0 "Hochkönigin"
+ empire_tribal:0 "Hochkönigreich"
 
  #Default Mercenary tiers
  baron_mercenary_male:0 "Leutnant"
@@ -529,7 +529,7 @@
  emperor_viceroyalty_male_byzantine_group:0 "Großexarch"
  emperor_viceroyalty_female_byzantine_group:0 "Großexarchessa"
  empire_viceroyalty_byzantine_group:0 "Großexarchat"
-
+ 
 ### German ###
 # Feudal / Tribal
  emperor_feudal_male_german:0 "Kaiser"
@@ -854,7 +854,7 @@
  swiss_confederation:0 "Eidgenossenschaft"
  count_feudal_male_e_britannia:0 "Earl"
  count_feudal_female_e_britannia:0 "Gräfin"
- county_feudal_e_britannia:0 "Earltum"
+ county_feudal_e_britannia:0 "Gau"
  count_feudal_male_k_wales:0 "Fürst"
  count_feudal_female_k_wales:0 "Fürstin"
  county_feudal_k_wales:0 "Fürstentum"
@@ -1016,3 +1016,11 @@
  king_feudal_female_hausan:1 "Sarauniya"
  emperor_feudal_male_hausan:1 "Sarkin Sarakuna"
  emperor_feudal_female_hausan:1 "Sarauniyar Sarauniya"
+
+### Proto Germanic ###
+# Tribe
+ baron_tribal_male_proto_germanic:0 "Hunno"
+ baron_tribal_female_proto_germanic:0 "Hunna"
+ count_tribal_male_proto_germanic:0 "Fürst"
+ count_tribal_female_proto_germanic:0 "Fürstin"
+ county_tribal_proto_germanic:0 "Gau"

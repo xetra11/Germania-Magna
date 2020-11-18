@@ -3,7 +3,7 @@
  ############################################################
  # Prefixes
  ############################################################
- dynnp_af:0 "von"
- dynnpat_suf_sohn:0 "Sohn des "
- dynnpat_suf_Tochter:0 "Sohn des "
+ dynnp_von:0 "von "
+ dynnpat_pre_sohn:0 "Sohn des "
+ dynnpat_pre_tochter:0 "Tochter des "
  dynn_donar:0 "Söhne des Donar"
