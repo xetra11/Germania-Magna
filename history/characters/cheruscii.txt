@@ -1,6 +1,6 @@
 ﻿666001 = {
 	name = "Thorak"
-	dna = 666001_halfdan_whiteshirt
+	dna = 666001_thorak
 	dynasty = 789001
 	religion = "norse_pagan"
 	culture = cheruscii
@@ -15,8 +15,4 @@
 	trait = callous
 	trait = viking
 	trait = education_martial_3
-	1.1.1 = {
-		give_nickname = nick_whiteshirt
-		birth = yes
-	}
 }
