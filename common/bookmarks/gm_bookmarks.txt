@@ -1,5 +1,5 @@
 ﻿bm_10_barbarians = {
-	start_date = 10.1.1
+	start_date = 11.1.1
 	is_playable = yes
 	
 	character = {
