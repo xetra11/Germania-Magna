@@ -8,7 +8,7 @@
 		dynasty_splendor_level = 1
 		type = male
 		birth = 1.1.1
-		title = d_york
+		title = c_dessau
 		government = tribal_government
 		culture = cheruscii
 		religion = norse_pagan
