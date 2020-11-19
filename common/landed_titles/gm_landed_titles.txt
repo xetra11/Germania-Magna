@@ -9,15 +9,6 @@ d_angria = {
 	
 	capital = c_minden
 	
-	ai_primary_priority = {
-		if = {
-			limit = {
-				culture_group = culture_group:proto_germanic_group
-			}
-			add = @correct_culture_primary_score
-		}
-	}
-	
 	c_minden = {
 		color = { 205 105 85 }
 		color2 = { 255 255 255 }

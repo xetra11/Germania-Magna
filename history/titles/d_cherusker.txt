@@ -1,6 +1,5 @@
 d_angria = {
 	1.1.1 = {
-		holder = 666001
 	}
 }
 
@@ -16,7 +15,6 @@ c_bremen = {
 	1.1.1 = {
 		government = theocracy_government
 		liege = "d_angria"
-		holder = 168229
 	}
 }
 
@@ -24,7 +22,6 @@ c_wolpe = {
 	1.1.1 = {
 		government = tribal_government
 		liege = d_angria
-		holder = 451973
 	}
 }
 
@@ -32,7 +29,6 @@ c_luneburg = {
 	1.1.1 = {
 		government = tribal_government
 		liege = d_angria
-		holder = 212360
 	}
 }
 
@@ -40,7 +36,6 @@ c_hannover = {
 	1.1.1 = {
 		government = tribal_government
 		liege = d_angria
-		holder = 212360
 	}
 }
 
@@ -48,7 +43,6 @@ c_hildesheim = {
 	1.1.1 = {
 		government = tribal_government
 		liege = d_angria
-		holder = 163117
 	}
 }
 
@@ -56,6 +50,5 @@ c_oldenburg = {
 	1.1.1 = {
 		government = tribal_government
 		liege = d_angria
-		holder = 190463
 	}
 }
