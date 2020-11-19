@@ -23599,10 +23599,10 @@
  d_thuringia:0 "Hermunduren"
  d_thuringia_adj:0 "Hermundurisch"
 
- c_minden:0 "Donarkrieger"
- c_minden_adj:0 "Donarkriegerisch"
+ c_donar:0 "Donarkrieger"
+ c_donar_adj:0 "Donarkriegerisch"
 
- b_diepholz:0 "Deuboum"
- b_minden:0 "Minden"
- b_bruchhausen:0 "Brākhām"
- b_hoya:0 "Hoya"
+ b_deuboum:0 "Deuboum"
+ b_minder:0 "Minder"
+ b_brakham:0 "Brākhām"
+ b_hoja:0 "Hoja"

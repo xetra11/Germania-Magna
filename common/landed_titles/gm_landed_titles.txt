@@ -7,31 +7,31 @@ d_cherusker = {
 	color = { 205 105 85 }
 	color2 = { 255 255 255 }
 	
-	capital = c_minden
+	capital = c_donar
 	
-	c_minden = {
+	c_donar = {
 		color = { 205 105 85 }
 		color2 = { 255 255 255 }
 		
-		b_diepholz = {
+		b_deuboum = {
 			province = 2838
 			
 			color = { 205 105 85 }
 			color2 = { 255 255 255 }
 		}
-		b_minden = {
+		b_minder = {
 			province = 2840
 			
 			color = { 205 105 85 }
 			color2 = { 255 255 255 }
 		}
-		b_bruchhausen = {
+		b_brakham = {
 			province = 2837
 			
 			color = { 205 105 85 }
 			color2 = { 255 255 255 }
 		}
-		b_hoya = {
+		b_hoja = {
 			province = 2839
 			
 			color = { 205 105 85 }

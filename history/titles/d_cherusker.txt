@@ -3,7 +3,7 @@ d_cherusker = {
 	}
 }
 
-c_minden = {
+c_donar = {
 	1.1.1 = {
 		government = tribal_government
 		liege = d_cherusker
