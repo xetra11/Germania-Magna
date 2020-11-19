@@ -23590,7 +23590,7 @@
  b_tarok:0 "Tarok"
 
 # Germania Magna
- d_angria:0 "Cherusker"
+ d_cherusker:0 "Cherusker"
  d_gelre:0 "Brukterer"
  d_lower_lorraine:0 "Sugambrer"
  d_lower_lorraine_adj:0 "Sugambrerisch"

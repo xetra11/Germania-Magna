@@ -1,4 +1,4 @@
-d_angria = {
+d_cherusker = {
 	1.1.1 = {
 	}
 }
@@ -6,7 +6,7 @@ d_angria = {
 c_minden = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_angria
+		liege = d_cherusker
 		holder = 666001
 	}
 }
@@ -14,41 +14,41 @@ c_minden = {
 c_bremen = {
 	1.1.1 = {
 		government = theocracy_government
-		liege = "d_angria"
+		liege = "d_cherusker"
 	}
 }
 
 c_wolpe = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_angria
+		liege = d_cherusker
 	}
 }
 
 c_luneburg = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_angria
+		liege = d_cherusker
 	}
 }
 
 c_hannover = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_angria
+		liege = d_cherusker
 	}
 }
 
 c_hildesheim = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_angria
+		liege = d_cherusker
 	}
 }
 
 c_oldenburg = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_angria
+		liege = d_cherusker
 	}
 }
