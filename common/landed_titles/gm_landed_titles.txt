@@ -347,7 +347,7 @@ d_cherusker = {
 #
 #
 #
-#		d_lower_lorraine = {
+#		d_sugambrer = {
 #			color = { 150 145 180 }
 #			color2 = { 255 255 255 }
 #
@@ -1204,7 +1204,7 @@ d_cherusker = {
 #			}
 #		}
 #
-#		d_thuringia = {
+#		d_hermunduren = {
 #			color = { 200 160 181 }
 #			color2 = { 255 255 255 }
 #
@@ -1422,7 +1422,7 @@ d_cherusker = {
 #			}
 #		}
 #
-#		d_gelre = {
+#		c_brukterer = {
 #			color = { 200 60 40 }
 #			color2 = { 255 255 255 }
 #
@@ -3281,7 +3281,7 @@ d_cherusker = {
 #			}
 #		}
 #
-#		d_hesse = {
+#		d_chatten = {
 #			color = { 180 160 160 }
 #			color2 = { 255 255 255 }
 #

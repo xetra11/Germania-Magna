@@ -23591,13 +23591,13 @@
 
 # Germania Magna
  d_cherusker:0 "Cherusker"
- d_gelre:0 "Brukterer"
- d_lower_lorraine:0 "Sugambrer"
- d_lower_lorraine_adj:0 "Sugambrerisch"
- d_hesse:0 "Chatten"
- d_hesse_adj:0 "Chattisch"
- d_thuringia:0 "Hermunduren"
- d_thuringia_adj:0 "Hermundurisch"
+ d_brukterer:0 "Brukterer"
+ d_sugambrer:0 "Sugambrer"
+ d_sugambrer_adj:0 "Sugambrerisch"
+ d_chatten:0 "Chatten"
+ d_chatten_adj:0 "Chattisch"
+ d_hermunduren:0 "Hermunduren"
+ d_hermunduren_adj:0 "Hermundurisch"
 
  c_donar:0 "Donarkrieger"
  c_donar_adj:0 "Donarkriegerisch"
