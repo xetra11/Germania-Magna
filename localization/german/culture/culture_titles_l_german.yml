@@ -14,6 +14,6 @@
  count_tribal_female_proto_germanic:0 "Fürstin"
  county_tribal_proto_germanic:0 "Gau"
 
- duke_tribal_male_proto_germanic:0 "Stammesherzog"
- duke_tribal_female_proto_germanic:0 "Herzogin"
- duchy_tribal_proto_germanic:0 "Großstamm"
+ duke_tribal_male_proto_germanic:0 "Reik"
+ duke_tribal_female_proto_germanic:0 "Reikin"
+ duchy_tribal_proto_germanic:0 "Stamm"
