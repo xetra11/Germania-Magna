@@ -52,13 +52,15 @@
 			Leinwen Malowent Marbot Morbot Merowent Onsaka Ongar Ongeomar Ongwen Retlunt Segested Segimar Segimund Segemar
 			Segested Thorak Thorag Torag Torwin Torald Torwen Tolgrim Wegumar Wegilund Agilaz Agiþewaz Alarīks Albigaizaz
 			Albiharjaz Andaswaraz Ansulaibaz Ansuwaldaz Audarīks Audawakraz Audawarduz Audawiniz Audawulfaz Auziwandilaz
-			Aþalagaizaz Aþalawulfaz Balþawiniz Bernuharduz Friþugaizaz
-			
-			
+			Aþalagaizaz Aþalawulfaz Balþawiniz Bernuharduz Friþugaizaz Friþurīks Frōdô Gaizarīks Gautafriþuz Grīmaz
+			Gunþiharjaz Gunþilaibaz Gunþiwulfaz Haimarīks Harjamōdaz Harjawaldaz Helparīks Hildirīks Hrōþiberhtaz Hrōþigaizaz
+			Hrōþirīks Hrōþiwulfaz Ingumēraz Kunjamunduz Raginaharduz Raginaharjaz Raginawaldaz Rēdawulfaz Rīkaharduz
+			Segafriþuz Sigiwarduz Stainawarjaz Uzdagaizaz Uzdawulfaz Waldaharjaz Wiljahelmaz Þeudarīks Þeudōbalþaz Þeudōberhtaz
 		}
 		female_names = {
 			Albrid Atla Birgud Auja Birgut Bilke Dora Elka Frey Filgrid Guthild Gunhild Gurda Gudrun Hildred Hilbrand Hilda
-			Ires Ingred Ingrid Meinhild Mildred Sighild Thusnelda Tusnelda Tusneld Ura
+			Ires Ingred Ingrid Meinhild Mildred Sighild Thusnelda Tusnelda Tusneld Ura Brunjōhildiz Ermunahildiz Gudagebō
+			Haþuwīgą Mahtihildiz
 		}
 		
 		dynasty_of_location_prefix = "dynnp_der"
