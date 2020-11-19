@@ -37,6 +37,12 @@
 		dynasty_names = {
 			"dynn_donar"
 			"dynn_boar"
+			"dynn_stag"
+			"dynn_hugin"
+			"dynn_munin"
+			"dynn_ygg"
+			"dynn_wodan"
+			"dynn_einh"
 		}
 		
 		male_names = {
@@ -44,7 +50,10 @@
 			Farowen Falknin Folkin Garduwin Gundalf Gandulf Gondulf Gorolf Gonwolf Godwin Horold Hanrold Holgan Hulg
 			Heskowen Hemrid Herowen Huldrin Hadowan Ingrulf Ingburt Igdrason Iglfen Ingrend Ingeomar Jens Jente Jorun Jotun
 			Leinwen Malowent Marbot Morbot Merowent Onsaka Ongar Ongeomar Ongwen Retlunt Segested Segimar Segimund Segemar
-			Segested Thorak Thorag Torag Torwin Torald Torwen Tolgrim Wegumar Wegilund
+			Segested Thorak Thorag Torag Torwin Torald Torwen Tolgrim Wegumar Wegilund Agilaz Agiþewaz Alarīks Albigaizaz
+			Albiharjaz Andaswaraz Ansulaibaz Ansuwaldaz Audarīks Audawakraz Audawarduz Audawiniz Audawulfaz Auziwandilaz
+			Aþalagaizaz Aþalawulfaz Balþawiniz Bernuharduz Friþugaizaz
+			
 			
 		}
 		female_names = {

@@ -1,4 +1,7 @@
-﻿# Sons of Donar
+﻿##
+# 000001 = Cheruscii
+##
+# Sons of Donar
 lineage_of_donar = {
 	prefix = "dynnp_der"
 	name = "dynn_donar"
@@ -9,5 +12,47 @@ lineage_of_donar = {
 lineage_of_boar = {
 	prefix = "dynnp_der"
 	name = "dynn_boar"
+	dynasty = 000001
+}
+
+# Stag People
+lineage_of_stag = {
+	prefix = "dynnp_der"
+	name = "dynn_stag"
+	dynasty = 000001
+}
+
+# Munin People
+lineage_of_munin = {
+	prefix = "dynnp_der"
+	name = "dynn_munin"
+	dynasty = 000001
+}
+
+# Hugin People
+lineage_of_hugin = {
+	prefix = "dynnp_der"
+	name = "dynn_hugin"
+	dynasty = 000001
+}
+
+# Yggrassil (the world tree) People
+lineage_of_yggdrasil = {
+	prefix = "dynnp_der"
+	name = "dynn_ygg"
+	dynasty = 000001
+}
+
+# Wodan People
+lineage_of_wodan = {
+	prefix = "dynnp_der"
+	name = "dynn_wodan"
+	dynasty = 000001
+}
+
+# Wodan People
+lineage_of_wodan = {
+	prefix = "dynnp_der"
+	name = "dynn_einh"
 	dynasty = 000001
 }
