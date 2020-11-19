@@ -15,6 +15,7 @@ c_bremen = {
 	1.1.1 = {
 		government = theocracy_government
 		liege = "d_cherusker"
+		holder = 666002
 	}
 }
 
