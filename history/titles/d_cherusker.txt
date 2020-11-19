@@ -1,5 +1,7 @@
 d_cherusker = {
 	1.1.1 = {
+		government = tribal_government
+		holder = 666001
 	}
 }
 
@@ -7,7 +9,7 @@ c_donar = {
 	1.1.1 = {
 		government = tribal_government
 		liege = d_cherusker
-		holder = 666001
+		holder = thorak_historical
 	}
 }
 
@@ -15,7 +17,6 @@ c_bremen = {
 	1.1.1 = {
 		government = theocracy_government
 		liege = "d_cherusker"
-		holder = 666002
 	}
 }
 
@@ -23,6 +24,7 @@ c_wolpe = {
 	1.1.1 = {
 		government = tribal_government
 		liege = d_cherusker
+		holder = segested_historical
 	}
 }
 

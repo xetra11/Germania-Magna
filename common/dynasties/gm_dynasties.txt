@@ -1,4 +1,55 @@
-﻿000001 = {
-	name = "dynn_cheruscii"
+﻿# Sons of Donar
+lineage_of_donar = {
+	prefix = "dynnp_der"
+	name = "dynn_donar"
+	culture = "cheruscii"
+}
+
+# Boar People
+lineage_of_boar = {
+	prefix = "dynnp_der"
+	name = "dynn_boar"
+	culture = "cheruscii"
+}
+
+# Stag People
+lineage_of_stag = {
+	prefix = "dynnp_der"
+	name = "dynn_stag"
+	culture = "cheruscii"
+}
+
+# Munin People
+lineage_of_munin = {
+	prefix = "dynnp_der"
+	name = "dynn_munin"
+	culture = "cheruscii"
+}
+
+# Hugin People
+lineage_of_hugin = {
+	prefix = "dynnp_der"
+	name = "dynn_hugin"
+	culture = "cheruscii"
+}
+
+# Yggrassil (the world tree) People
+lineage_of_yggdrasil = {
+	prefix = "dynnp_der"
+	name = "dynn_ygg"
+	culture = "cheruscii"
+}
+
+# Wodan People
+lineage_of_wodan = {
+	prefix = "dynnp_der"
+	name = "dynn_wodan"
+	culture = "cheruscii"
+}
+
+# Wodan People
+lineage_of_wodan = {
+	prefix = "dynnp_der"
+	name = "dynn_einh"
 	culture = "cheruscii"
 }

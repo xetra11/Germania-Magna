@@ -1,5 +1,5 @@
 ﻿bm_10_barbarians = {
-	start_date = 11.1.1
+	start_date = 100.1.1
 	is_playable = yes
 	
 	character = {
@@ -13,7 +13,7 @@
 		culture = cheruscii
 		religion = norse_pagan
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = 666001
+		history_id = thorak_historical
 		position = { 700 620 }
 		animation = disapproval
 	}

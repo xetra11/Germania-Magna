@@ -1,7 +1,7 @@
-﻿666001 = {
+﻿thorak_historical = {
 	name = "Thorak"
 	dna = thorak
-	dynasty = lineage_of_stag
+	dynasty = lineage_of_donar
 	religion = "norse_pagan"
 	culture = cheruscii
 	martial = 7
@@ -16,7 +16,7 @@
 	trait = viking
 	trait = education_martial_3
 	
-	1.1.1 = {
+	68.1.1 = {
 		birth = yes
 	}
 }
@@ -36,7 +36,27 @@
 	trait = wrathful
 	trait = callous
 	
-	1.1.1 = {
+	40.1.1 = {
+		birth = yes
+	}
+}
+
+armin_historical = {
+	name = "Armin"
+	dna = armin
+	dynasty = lineage_of_stag
+	religion = "norse_pagan"
+	culture = cheruscii
+	martial = 15
+	stewardship = 10
+	diplomacy = 8
+	intrigue = 14
+	learning = 5
+	trait = ambitious
+	trait = wrathful
+	trait = callous
+	
+	70.1.1 = {
 		birth = yes
 	}
 }
