@@ -1,15 +1,18 @@
 d_cherusker = {
-	1.1.1 = {
-		government = tribal_government
-		holder = 666001
+	government = tribal_government
+	701.1.1 = {
+		holder = segimar
+	}
+	758.1.1 = {
+		holder = armin
 	}
 }
 
 c_donar = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_cherusker
-		holder = thorak_historical
+		liege = "d_cherusker"
+		holder = thorak
 	}
 }
 
@@ -23,35 +26,35 @@ c_bremen = {
 c_wolpe = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_cherusker
-		holder = segested_historical
+		liege = "d_cherusker"
+		holder = segestes
 	}
 }
 
 c_luneburg = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_cherusker
+		liege = "d_cherusker"
 	}
 }
 
 c_hannover = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_cherusker
+		liege = "d_cherusker"
 	}
 }
 
 c_hildesheim = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_cherusker
+		liege = "d_cherusker"
 	}
 }
 
 c_oldenburg = {
 	1.1.1 = {
 		government = tribal_government
-		liege = d_cherusker
+		liege = "d_cherusker"
 	}
 }

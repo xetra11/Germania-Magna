@@ -47,8 +47,8 @@ lineage_of_wodan = {
 	culture = "cheruscii"
 }
 
-# Wodan People
-lineage_of_wodan = {
+# Einherier People
+lineage_of_einherier = {
 	prefix = "dynnp_der"
 	name = "dynn_einh"
 	culture = "cheruscii"

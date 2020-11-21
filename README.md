@@ -14,7 +14,7 @@ A Crusader Kings 3 Total Conversion Mod
 * Map of rhine germans
   * Cheruscii Grosstamm
 * War  
-  * Levies become Kriegerschar (engl. Horde)  
+  * Levies become Harjaz (engl. Horde)  
 
 # Planned Features
 * New historical assumed title description and liege hierarchy of proto-germanic tribes
@@ -26,7 +26,7 @@ A Crusader Kings 3 Total Conversion Mod
 * More adventurers decisions for faith related actions like sacrifices, feasts, hunts and duels
 * Redo of character actions to match the ancient theme
 * Redo of the levy strength and man-at-arms availability
- ** Levies become Kriegerschar (engl. Horde)
+ ** Levies become Harjaz (engl. Horde)
  ** Man-At-Arms bekome Edelinge (engl. Nobles)
  ** Edelinge will have a higher cost and should be only 5-10% of the warband strength
  * TODO

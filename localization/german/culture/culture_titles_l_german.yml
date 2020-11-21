@@ -6,14 +6,14 @@
 
 ### Proto Germanic ###
 # Tribe
- baron_tribal_male_proto_germanic:0 "Hunno"
- baron_tribal_female_proto_germanic:0 "Hunna"
- barony_tribal_proto_germanic:0 "Hundertschaft"
+ baron_tribal_male_proto_germanic:0 "Hundna"
+ baron_tribal_female_proto_germanic:0 "Hundna"
+ barony_tribal_proto_germanic:0 "Hundaraþam"
 
- count_tribal_male_proto_germanic:0 "Gaufürst"
- count_tribal_female_proto_germanic:0 "Fürstin"
- county_tribal_proto_germanic:0 "Gau"
+ count_tribal_male_proto_germanic:0 "Grefōn"
+ count_tribal_female_proto_germanic:0 "Grefōn"
+ county_tribal_proto_germanic:0 "Gawja"
 
- duke_tribal_male_proto_germanic:0 "Reik"
- duke_tribal_female_proto_germanic:0 "Reikin"
+ duke_tribal_male_proto_germanic:0 "Harjatugōn"
+ duke_tribal_female_proto_germanic:0 "Harjatugōn"
  duchy_tribal_proto_germanic:0 "Stamm"
